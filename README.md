@@ -1,6 +1,7 @@
-# Conky files
-This is a repository for a simple conky theme.
-Screenshoot: 
+# Newh4t Conky files
+This is a repository for a simple Conky Theme created by newh4t
+
+Screenshoot: http://s000.tinyupload.com/?file_id=22370553417575798922
 
 ### Install
 1. Put newh4t folder, and contained files, in your conky path ( usually ~/.conky/ )
